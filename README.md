@@ -13,12 +13,7 @@ I am an independent game and software developer, currently looking for work and/
 
 ## 👨‍💻 I’m currently working on:
 
-Watchdog - A personal game project about a dog protecting his family from monsters that go bump in the night.
-
-## 📚 I’m currently learning ...
-
-- Game Management Best Practices
-- Level Management Best Practices
+Small game projects to gain more experience.
 
 ## 🤔 I’m looking for help with ...
 
